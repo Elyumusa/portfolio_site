@@ -1,11 +1,11 @@
 String hellotag = '''Hi there, Welcome to My Space  ''';
 
-String yourname = "I'm Sudesh Bandara,";
+String yourname = "I'm Ely'umusa Njobvu,";
 // String hometitle2 = "A Mobile Application\nDeveloper";
 
 String animationtxt1 = " Mobile Application Developer";
-String animationtxt2 = " UI/UX Designer";
-String animationtxt3 = " Web Developer";
+String animationtxt2 = "Backend Developer";
+String animationtxt3 = "Cyber Security Specialist";
 
 //
 String contactHeadding = "Let’s try my service now!";
